@@ -1,0 +1,16 @@
+body {
+    background-color: antiquewhite;
+    padding: 0 10px;
+}
+
+h1, h2, h3 {
+    color: brown;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+ul li {
+    list-style-type: none;
+}
